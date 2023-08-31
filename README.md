@@ -14,7 +14,7 @@ Decode & Encode
 SQL Injection Cheat Sheet
 - https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
 
-Wayback Machine
+Wayback Machine (OSINT)
 - https://archive.org/web/
 
 Steganography 
