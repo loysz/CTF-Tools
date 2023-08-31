@@ -19,12 +19,11 @@ https://www.spammimic.com/
 Wayback Machine
 https://archive.org/web/
 
-**Steganography**
-PNG 
+Steganography PNG 
 https://github.com/zed-0xff/zsteg
 
-JPG 
-https://github.com/RickdeJager/stegseek
-https://github.com/StefanoDeVuono/steghide
+Steganography JPG 
+- https://github.com/RickdeJager/stegseek
+- https://github.com/StefanoDeVuono/steghide
 
 
