@@ -12,6 +12,8 @@ Decode & Encode
   - https://www.spammimic.com/
 - Old Phone SMS
   - https://www.dcode.fr/multitap-abc-cipher
+- Hue
+  - https://www.dcode.fr/hexahue-cipher 
 
 SQL Injection Cheat Sheet
 - https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
