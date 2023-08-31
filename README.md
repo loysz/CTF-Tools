@@ -5,9 +5,10 @@ Some CTF Tools Website
 - https://www.hucerc.com/recommended-tool-list-for-ctf/
 
 Decode & Encode
+- Multi
+  - https://www.cachesleuth.com/multidecoder/
 - Typewriter
   - http://www.zodiackillerciphers.com/typewriter/
-  - https://www.cachesleuth.com/multidecoder/
 - Spam
   - https://www.spammimic.com/
 - Old Phone SMS
