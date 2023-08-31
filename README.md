@@ -9,7 +9,9 @@ Decode & Encode
   - http://www.zodiackillerciphers.com/typewriter/
   - https://www.cachesleuth.com/multidecoder/
 - Spam
-  -  https://www.spammimic.com/
+  - https://www.spammimic.com/
+- Old Phone SMS
+  - https://www.dcode.fr/multitap-abc-cipher
 
 SQL Injection Cheat Sheet
 - https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
