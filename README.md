@@ -29,10 +29,4 @@ Steganography
   - https://github.com/RickdeJager/stegseek
   - https://github.com/StefanoDeVuono/steghide
 
-Python Exploit Development Assistance for GDB
-- https://github.com/longld/peda
-
-CTF framework and exploit development library
-- https://github.com/Gallopsled/pwntools
-
 
