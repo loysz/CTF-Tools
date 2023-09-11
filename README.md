@@ -29,4 +29,7 @@ Steganography
   - https://github.com/RickdeJager/stegseek
   - https://github.com/StefanoDeVuono/steghide
 
+Python Exploit Development Assistance for GDB
+- https://github.com/longld/peda
+
 
