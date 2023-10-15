@@ -41,4 +41,6 @@ Steganography
   - https://github.com/RickdeJager/stegseek
   - https://github.com/StefanoDeVuono/steghide
 
+MySQL Error based SQL Injection Cheatsheet
+- https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/tree/main/Error%20Based%20SQLi
 
