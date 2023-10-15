@@ -16,6 +16,9 @@ Decode & Encode
   - https://www.dcode.fr/multitap-abc-cipher
 - Hue
   - https://www.dcode.fr/hexahue-cipher 
+- Identifier
+  - https://www.boxentriq.com/code-breaking/cipher-identifier
+  - https://www.dcode.fr/cipher-identifier
 
 SQL Injection Cheat Sheet
 - https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet
