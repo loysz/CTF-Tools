@@ -28,6 +28,12 @@ SQL Injection Cheat Sheet
 Wayback Machine (OSINT)
 - https://archive.org/web
 
+OSINT Tools
+- How To Use Google Search
+  - https://ahrefs.com/blog/google-advanced-search-operators
+- OSINT Framework
+  - https://osintframework.com
+
 Steganography 
 - PNG 
   - https://github.com/zed-0xff/zsteg
