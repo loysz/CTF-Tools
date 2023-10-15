@@ -19,6 +19,8 @@ Decode & Encode
 - Identifier
   - https://www.boxentriq.com/code-breaking/cipher-identifier
   - https://www.dcode.fr/cipher-identifier
+- Vigenere BruteForce
+  - https://www.guballa.de/vigenere-solver
 
 SQL Injection Cheat Sheet
 - https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet
