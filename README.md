@@ -1,46 +1,88 @@
 # CTF-Tools
-Just for storing some CTF tools
 
-Some CTF Tools Website
-- https://www.hucerc.com/recommended-tool-list-for-ctf
-- https://inventory.raw.pm/tools.html
+Welcome to CTF-Tools, a collection of useful tools and resources for Capture The Flag (CTF) challenges and other security-related tasks.
 
-Decode & Encode
-- Multi
-  - https://www.cachesleuth.com/multidecoder
-- Typewriter
-  - http://www.zodiackillerciphers.com/typewriter
-- Spam
-  - https://www.spammimic.com
-- Old Phone SMS
-  - https://www.dcode.fr/multitap-abc-cipher
-- Hue
-  - https://www.dcode.fr/hexahue-cipher 
-- Identifier
-  - https://www.boxentriq.com/code-breaking/cipher-identifier
-  - https://www.dcode.fr/cipher-identifier
-- Vigenere BruteForce
-  - https://www.guballa.de/vigenere-solver
+## Table of Contents
 
-SQL Injection Cheat Sheet
-- https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet
+- [Introduction](#introduction)
+- [Useful CTF Tools Websites](#useful-ctf-tools-websites)
+- [Decode & Encode Tools](#decode--encode-tools)
+- [SQL Injection Cheat Sheet](#sql-injection-cheat-sheet)
+- [OSINT (Open Source Intelligence) Tools](#osint-tools)
+- [Steganography Tools](#steganography-tools)
+- [MySQL Error-based SQL Injection Cheatsheet](#mysql-error-based-sql-injection-cheatsheet)
 
-Wayback Machine (OSINT)
-- https://archive.org/web
+## Introduction
 
-OSINT Tools
-- How To Use Google Search
-  - https://ahrefs.com/blog/google-advanced-search-operators
-- OSINT Framework
-  - https://osintframework.com
+This repository serves as a handy collection of tools, cheat sheets, and resources for individuals interested in CTF competitions, cybersecurity, and related fields. Feel free to explore the tools and websites listed here to aid you in your challenges and investigations.
 
-Steganography 
-- PNG 
-  - https://github.com/zed-0xff/zsteg
-- JPG 
-  - https://github.com/RickdeJager/stegseek
-  - https://github.com/StefanoDeVuono/steghide
+## Useful CTF Tools Websites
 
-MySQL Error based SQL Injection Cheatsheet
-- https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/tree/main/Error%20Based%20SQLi
+- [Recommended Tool List for CTF](https://www.hucerc.com/recommended-tool-list-for-ctf)
+- [CTF Tools Inventory](https://inventory.raw.pm/tools.html)
 
+## Decode & Encode Tools
+
+### Multi-Decoder
+
+- [Multi-Decoder](https://www.cachesleuth.com/multidecoder)
+
+### Typewriter
+
+- [Typewriter](http://www.zodiackillerciphers.com/typewriter)
+
+### Spam Decoder
+
+- [SpamMimic](https://www.spammimic.com)
+
+### Old Phone SMS Decoder
+
+- [Multitap ABC Cipher](https://www.dcode.fr/multitap-abc-cipher)
+
+### Hue Decoder
+
+- [Hexahue Cipher](https://www.dcode.fr/hexahue-cipher)
+
+### Cipher Identifier
+
+- [Cipher Identifier (Boxentriq)](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- [Cipher Identifier (dCode)](https://www.dcode.fr/cipher-identifier)
+
+### Vigenere Cipher Brute Force Solver
+
+- [Vigenere Solver](https://www.guballa.de/vigenere-solver)
+
+## SQL Injection Cheat Sheet
+
+- [SQL Injection Authentication Bypass Cheat Sheet](https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet)
+
+## OSINT Tools
+
+### How To Use Google Search
+
+- [Google Advanced Search Operators](https://ahrefs.com/blog/google-advanced-search-operators)
+
+### OSINT Framework
+
+- [OSINT Framework](https://osintframework.com)
+
+## Steganography Tools
+
+### PNG Steganography
+
+- [zsteg](https://github.com/zed-0xff/zsteg)
+
+### JPG Steganography
+
+- [stegseek](https://github.com/RickdeJager/stegseek)
+- [steghide](https://github.com/StefanoDeVuono/steghide)
+
+## MySQL Error-based SQL Injection Cheatsheet
+
+- [Advanced SQL Injection Cheatsheet (Error Based SQLi)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/tree/main/Error%20Based%20SQLi)
+
+Feel free to explore these tools and resources to enhance your skills in cybersecurity and CTF challenges. Happy hacking!
+
+## License
+
+This repository is provided as-is and is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
