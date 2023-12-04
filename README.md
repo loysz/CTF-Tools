@@ -1,4 +1,6 @@
-# CTF-Tools
+Certainly, you can add these additional resources to your README.md as follows:
+
+### CTF-Tools
 
 Welcome to CTF-Tools, a collection of useful tools and resources for Capture The Flag (CTF) challenges and other security-related tasks.
 
@@ -10,6 +12,7 @@ Welcome to CTF-Tools, a collection of useful tools and resources for Capture The
 - [SQL Injection Cheat Sheet](#sql-injection-cheat-sheet)
 - [OSINT (Open Source Intelligence) Tools](#osint-tools)
 - [Steganography Tools](#steganography-tools)
+- [Malware Analysis](#malware-analysis)
 - [MySQL Error-based SQL Injection Cheatsheet](#mysql-error-based-sql-injection-cheatsheet)
 
 ## Introduction
@@ -77,9 +80,17 @@ This repository serves as a handy collection of tools, cheat sheets, and resourc
 - [stegseek](https://github.com/RickdeJager/stegseek)
 - [steghide](https://github.com/StefanoDeVuono/steghide)
 
-## MySQL Error-based SQL Injection Cheatsheet
+## Malware Analysis
 
-- [Advanced SQL Injection Cheatsheet (Error Based SQLi)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/tree/main/Error%20Based%20SQLi)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) - A platform to check for malware, often used for forensic analysis.
+
+## Zip File Cracking
+
+- [bkcrack](https://github.com/kimci86/bkcrack) - A tool for cracking compressed files such as zip files, offering functionality beyond tools in Kali Linux.
+
+## HackerGPT
+
+- [HackerGPT](https://www.hackergpt.chat/) - A powerful tool for hackers, but free users may have usage restrictions and need to wait for three hours before using it.
 
 Feel free to explore these tools and resources to enhance your skills in cybersecurity and CTF challenges. Happy hacking!
 
