@@ -1,8 +1,6 @@
-Certainly, you can add these additional resources to your README.md as follows:
+# CTF-Tools
 
-### CTF-Tools
-
-Welcome to CTF-Tools, a collection of useful tools and resources for Capture The Flag (CTF) challenges and other security-related tasks.
+Welcome to CTF-Tools, a comprehensive collection of tools and resources for Capture The Flag (CTF) challenges, cybersecurity, and related tasks.
 
 ## Table of Contents
 
@@ -13,11 +11,13 @@ Welcome to CTF-Tools, a collection of useful tools and resources for Capture The
 - [OSINT (Open Source Intelligence) Tools](#osint-tools)
 - [Steganography Tools](#steganography-tools)
 - [Malware Analysis](#malware-analysis)
-- [MySQL Error-based SQL Injection Cheatsheet](#mysql-error-based-sql-injection-cheatsheet)
+- [Zip File Cracking](#zip-file-cracking)
+- [HackerGPT](#hackergpt)
+- [License](#license)
 
 ## Introduction
 
-This repository serves as a handy collection of tools, cheat sheets, and resources for individuals interested in CTF competitions, cybersecurity, and related fields. Feel free to explore the tools and websites listed here to aid you in your challenges and investigations.
+This repository serves as a valuable collection of tools, cheat sheets, and resources for individuals interested in CTF competitions, cybersecurity, and related fields. Explore the tools and websites listed here to enhance your capabilities and streamline your investigations.
 
 ## Useful CTF Tools Websites
 
@@ -58,6 +58,7 @@ This repository serves as a handy collection of tools, cheat sheets, and resourc
 ## SQL Injection Cheat Sheet
 
 - [SQL Injection Authentication Bypass Cheat Sheet](https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet)
+- [Advanced SQL Injection Cheatsheet (Error Based SQLi)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/tree/main/Error%20Based%20SQLi)
 
 ## OSINT Tools
 
@@ -86,13 +87,11 @@ This repository serves as a handy collection of tools, cheat sheets, and resourc
 
 ## Zip File Cracking
 
-- [bkcrack](https://github.com/kimci86/bkcrack) - A tool for cracking compressed files such as zip files, offering functionality beyond tools in Kali Linux.
+- [bkcrack](https://github.com/kimci86/bkcrack) - A powerful tool for cracking compressed files such as zip files, offering functionality beyond tools in Kali Linux.
 
 ## HackerGPT
 
 - [HackerGPT](https://www.hackergpt.chat/) - A powerful tool for hackers, but free users may have usage restrictions and need to wait for three hours before using it.
-
-Feel free to explore these tools and resources to enhance your skills in cybersecurity and CTF challenges. Happy hacking!
 
 ## License
 
