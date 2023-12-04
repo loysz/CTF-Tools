@@ -92,7 +92,3 @@ This repository serves as a valuable collection of tools, cheat sheets, and reso
 ## HackerGPT
 
 - [HackerGPT](https://www.hackergpt.chat/) - A powerful tool for hackers, but free users may have usage restrictions and need to wait for three hours before using it.
-
-## License
-
-This repository is provided as-is and is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
