@@ -12,7 +12,9 @@ Welcome to CTF-Tools, a comprehensive collection of tools and resources for Capt
 - [Steganography Tools](#steganography-tools)
 - [Malware Analysis](#malware-analysis)
 - [Zip File Cracking](#zip-file-cracking)
+- [Forensic Analysis](#forensic-analysis)
 - [HackerGPT](#hackergpt)
+- [License](#license)
 
 ## Introduction
 
@@ -88,6 +90,14 @@ This repository serves as a valuable collection of tools, cheat sheets, and reso
 
 - [bkcrack](https://github.com/kimci86/bkcrack) - A powerful tool for cracking compressed files such as zip files, offering functionality beyond tools in Kali Linux.
 
+## Forensic Analysis
+
+- [Eric Zimmerman's Forensic Tools](https://ericzimmerman.github.io/#!index.md) - A collection of various tools for forensic analysis.
+
 ## HackerGPT
 
 - [HackerGPT](https://www.hackergpt.chat/) - A powerful tool for hackers, but free users may have usage restrictions and need to wait for three hours before using it.
+
+## License
+
+This repository is provided as-is and is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
