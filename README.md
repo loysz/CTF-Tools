@@ -13,7 +13,6 @@ Welcome to CTF-Tools, a comprehensive collection of tools and resources for Capt
 - [Malware Analysis](#malware-analysis)
 - [Zip File Cracking](#zip-file-cracking)
 - [HackerGPT](#hackergpt)
-- [License](#license)
 
 ## Introduction
 
